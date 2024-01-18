@@ -1,0 +1,13 @@
+* {
+    margin: 0px;
+    background: #323232;
+}
+
+h1 {
+    font-family: monospace;
+    font-size: 13.9vw;
+    color: #dfffb5;
+    margin-top: -2px;
+    line-height: 68%;
+}
+
